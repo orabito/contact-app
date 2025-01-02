@@ -1,16 +1,12 @@
-# contact_app
+Contact App
+This is a simple contact management application where users can input their details such as name, email, and other contact information. The app allows users to store and view contact information.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+Users can enter and manage contact details.
+Integration with packages like ImagePicker, Lottie, Svg, and SplashNative for enhanced functionality and user experience.
+Technologies Used:
+Flutter
+ImagePicker for selecting images from the gallery
+Lottie for animations
+Svg for scalable vector graphics
+SplashNative for splash screen customization
